@@ -16,17 +16,27 @@ Testing otomatis: 4 test case included
 
 # Output:
 hasil.dxf → file DXF
+
 hasil.svg → file SVG
+
 test_1.dxf, test_1.svg, … test_4.svg → file hasil uji otomatis
 
 #Asumsi dan Simplifikasi:
+
 Kursi: Kaki direpresentasikan sebagai lingkaran kecil di sudut
+
 Pintu: Menggunakan simbol garis dengan arc bukaan 90 derajat
+
 Jendela: Garis tunggal dengan panjang 15 unit
+
 Ruangan: Skala 1:100 (meter ke cm)
 
 #Library yang Digunakan:
+
 ezdxf untuk generasi file DXF
+
 svgwrite untuk generasi file SVG
+
 re untuk parsing teks dengan regular expression
+
 
