@@ -22,6 +22,7 @@ Kursi dengan 4 kaki, dudukan persegi 40x40 cm, tinggi 45 cm
 ### Untuk Ruangan
 
 Ruangan ukuran 4x5 meter, dengan 1 pintu di sisi barat dan 1 jendela di sisi utara
+
 ---
 
 ##  Output
